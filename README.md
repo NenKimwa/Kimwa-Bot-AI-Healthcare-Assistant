@@ -154,7 +154,11 @@ The system has been successfully tested with:
 * Multi-language support (Yoruba, Igbo, Pidgin)
 
 ---
+## 🎥 Demo Video
 
+Watch the full project demonstration:
+
+▶️ YouTube Demo: [Coming Soon]
 ---
 ---
 
