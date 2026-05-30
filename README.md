@@ -155,6 +155,33 @@ The system has been successfully tested with:
 
 ---
 
+---
+---
+
+## 📸 Project Screenshots
+
+### WhatsApp Patient Interaction
+
+![WhatsApp Conversation 1](screenshots/whatsapp%201.png)
+
+![WhatsApp Conversation 2](screenshots/whatsapp%202.png)
+
+![WhatsApp Conversation 3](screenshots/whatsapp3.png)
+
+### n8n Workflow Architecture
+
+![Workflow Overview 1](screenshots/N8n%20screenshot%201.png)
+
+![Workflow Overview 2](screenshots/n8n2.png)
+
+### Airtable Session Memory
+
+![Airtable Database](screenshots/Airtable%203.png)
+
+### Payment Verification Email
+
+![Payment Email Notification](screenshots/Email%20proof.png)
+
 ## 👤 About the Builder
 
 Built by **Nenkimwa Simon Gokop**
