@@ -1,4 +1,10 @@
 # 🤖 Kimwa Bot — AI-Powered WhatsApp Healthcare Assistant
+---
+![Status](https://img.shields.io/badge/Status-Production_Ready-success)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-blue)
+![n8n](https://img.shields.io/badge/n8n-Automation-orange)
+![Twilio](https://img.shields.io/badge/Twilio-WhatsApp-red)
+![Airtable](https://img.shields.io/badge/Airtable-Memory-yellow)
 
 > *A production-ready AI healthcare assistant that automates patient enquiries, appointment booking, payment verification workflows, and staff notifications using WhatsApp, OpenAI, n8n, Twilio, and Airtable.*
 
