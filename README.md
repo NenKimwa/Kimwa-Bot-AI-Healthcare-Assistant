@@ -166,12 +166,6 @@ The system has been successfully tested with:
 * Multi-language support (Yoruba, Igbo, Pidgin)
 
 ---
-## 🎥 Demo Video
-
-Watch the full project demonstration:
-
-▶️ YouTube Demo: [Coming Soon]
----
 ---
 
 ## 📸 Project Screenshots
@@ -213,6 +207,8 @@ With firsthand experience managing healthcare operations, patient interactions, 
 🔗 LinkedIn: https://www.linkedin.com/in/nenkimwagokop
 
 📧 [nenkimwagokop3@gmail.com](mailto:nenkimwagokop3@gmail.com)
+
+▶️ Watch the Demo: https://youtu.be/Fucdjed0I38
 
 ---
 
