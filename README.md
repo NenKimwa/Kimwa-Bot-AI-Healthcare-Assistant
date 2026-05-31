@@ -24,6 +24,12 @@ Rather than building a generic chatbot, I designed a healthcare-focused AI workf
 
 The goal is simple:
 
+## 🎥 Demo Video
+
+Watch the full project demonstration here:
+
+https://youtu.be/Fucdjed0I38
+
 **Reduce administrative workload, improve patient experience, and make healthcare services more accessible through intelligent automation.**
 
 ---
